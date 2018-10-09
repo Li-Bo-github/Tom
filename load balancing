@@ -1,0 +1,8 @@
+load balancing improves the distribution of workloads across multiple computing resources, such as computers, a computer cluster, network links, central processing units, or disk drives.
+Load balancing optimize resource use, maximize throughput, minimize response time, and avoid overload of any single resource. Using multiple components with load balancing instead of a single component may increase reliability and availability through redundancy. Load balancing usually involves dedicated software or hardware, such as a multilayer switch or a Domain Name System server process.
+
+How round robin works in load balancing?
+assign work as round turn. However, it may make one server overload.
+
+what is random load balancing?
+random assign task. It has been claimed that random load balancing tends to provide better load distribution than round-robin.
